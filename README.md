@@ -10,3 +10,5 @@ SCK           <->   52
 GND           <->   GND  
 RESET         <->   9  
 DIO0          <->   2  
+## Document  
+http://wiki.ai-thinker.com/_media/lora/docs/sx1276_77_78_79.pdf
