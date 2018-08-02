@@ -10,7 +10,7 @@ GND           <->   GND
 RESET         <->   9  
 DIO0          <->   2  
 ## 2. Pinout 
-![Pinout Ra-02](https://photos.app.goo.gl/auzHKyiGN4z971876)  
+![Pinout Ra-02](image.png)  
 ![Pinout Ra-01](https://photos.app.goo.gl/hJ3FAP9AFSeTroLt5)  
 ## 2.Document  
 http://wiki.ai-thinker.com/_media/lora/docs/sx1276_77_78_79.pdf
